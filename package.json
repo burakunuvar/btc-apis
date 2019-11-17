@@ -1,0 +1,26 @@
+{
+  "name": "btc-tracker",
+  "version": "1.0.0",
+  "description": "https://apiv2.bitcoinaverage.com/",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"select your coin and currency\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burakunuvar/btc-tracker.git"
+  },
+  "keywords": [
+    "btc-tracker"
+  ],
+  "author": "buraku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burakunuvar/btc-tracker/issues"
+  },
+  "homepage": "https://github.com/burakunuvar/btc-tracker#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
