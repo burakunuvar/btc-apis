@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/burakunuvar/btc-tracker#readme",
   "dependencies": {
+    "aws-serverless-express": "^3.3.6",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "node-fetch": "^2.6.0",
